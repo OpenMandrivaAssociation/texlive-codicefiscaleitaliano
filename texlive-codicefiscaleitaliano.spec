@@ -51,3 +51,12 @@ accountants that use fiscal codes very frequently.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1-2
++ Revision: 813456
+- Update to latest release.
+- Import texlive-codicefiscaleitaliano
+- Import texlive-codicefiscaleitaliano
+
