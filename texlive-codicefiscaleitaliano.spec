@@ -1,12 +1,12 @@
-# revision 26234
+# revision 29803
 # category Package
 # catalog-ctan /macros/latex/contrib/codicefiscaleitaliano
-# catalog-date 2012-05-05 09:37:49 +0200
+# catalog-date 2012-05-14 18:00:00 +0200
 # catalog-license lppl1.3
-# catalog-version 1.1
+# catalog-version 1.2
 Name:		texlive-codicefiscaleitaliano
-Version:	1.1
-Release:	2
+Version:	1.2
+Release:	1
 Summary:	Test the consistency of the Italian personal Fiscal Code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/codicefiscaleitaliano
@@ -51,12 +51,3 @@ accountants that use fiscal codes very frequently.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1-2
-+ Revision: 813456
-- Update to latest release.
-- Import texlive-codicefiscaleitaliano
-- Import texlive-codicefiscaleitaliano
-
