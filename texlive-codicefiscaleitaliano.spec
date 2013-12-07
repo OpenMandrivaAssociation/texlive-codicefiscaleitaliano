@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-codicefiscaleitaliano
 Version:	1.2
-Release:	4
+Release:	5
 Summary:	Test the consistency of the Italian personal Fiscal Code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/codicefiscaleitaliano
