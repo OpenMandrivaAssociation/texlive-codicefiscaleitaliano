@@ -5,9 +5,9 @@ Summary:	Test the consistency of the Italian personal Fiscal Code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/codicefiscaleitaliano
 License:	LPPL1.3
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codicefiscaleitaliano.r29803.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codicefiscaleitaliano.doc.r29803.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codicefiscaleitaliano.source.r29803.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codicefiscaleitaliano.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codicefiscaleitaliano.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codicefiscaleitaliano.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
