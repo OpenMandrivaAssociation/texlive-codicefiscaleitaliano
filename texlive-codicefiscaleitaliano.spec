@@ -3,7 +3,7 @@ Version:	29803
 Release:	2
 Summary:	Test the consistency of the Italian personal Fiscal Code
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/codicefiscaleitaliano
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/codicefiscaleitaliano
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codicefiscaleitaliano.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/codicefiscaleitaliano.doc.r%{version}.tar.xz
